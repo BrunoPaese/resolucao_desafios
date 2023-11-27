@@ -1,4 +1,4 @@
-# RESOLUÇÃO DOS DESAFIOS
+# RESOLUÇÃO DE DESAFIOS
 
 Olá, Bem vindo as resoluções de alguns desafios de sites como o HackerRank e LeetCode.
 

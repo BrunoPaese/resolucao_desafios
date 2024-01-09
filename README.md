@@ -22,7 +22,12 @@ Recebe comprimento da matriz, um divisor(k) inteiro e uma array não formatados.
 
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/three-month-preparation-kit-divisible-sum-pairs/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one) o site oficial. 
 
-## 5. Desafio de formatação de Strings
+## 5. Diagonal Difference
+Recebe o tamanho da matriz quadrada e respectivos termos. Retorna a diferença absoluta entre as somas das duas diagonais da matriz com um único número inteiro.
+
+Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two) o site oficial. 
+
+## 6. Desafio de formatação de Strings
 Recebe uma String e um padrão na qual retorna true (padrão encontrado na String) ou false. O padrão pode conter caracteres especiais, na qual "?" corresponde a qualquer caractere e "*" corresponde a uma sequência qualquer de caracteres.
 
 Para explicação detalhada do desafio [acesse](https://leetcode.com/problems/wildcard-matching/?envType=featured-list&envId=top-google-questions%3FenvType%3Dfeatured-list&envId=top-google-questions) o site oficial. 

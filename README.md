@@ -29,4 +29,5 @@ Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/chall
 
 ## 6. Caesar Cipher
 Recebe o número de caracteres da string, uma string, quantidade do giro no alfabeto. Retorna a string criptografada.
+
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-three) o site oficial.

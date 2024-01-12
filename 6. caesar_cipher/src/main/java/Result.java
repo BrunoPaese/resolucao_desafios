@@ -23,17 +23,25 @@ public class Result {
         return listaLetras;
     }
 
-    public int verificaIndexCriptografado(String letra) {
-        return listaLetras.indexOf(letra) + rotacao;
+    public int verificaIndexCriptografado(String caractere) {
+        return listaLetras.indexOf(caractere) + rotacao;
+    }
+
+    private boolean caractereMaiusculo(String caractere)  {
+        char[] letra = caractere.toCharArray();
+        return Character.isUpperCase(letra[0]);
     }
 
     public String converteCriptografia() {
         String letras = "";
         for (int i = 0; i < tamanhoString; i++) {
-            if (texto.substring(i, i + 1).equals("-")) {
+            String caractere = texto.substring(i, i + 1);
+            if (caractere.equals("-")) {
                 letras += "-";
+            } else if (caractereMaiusculo(caractere)) {
+                letras += listaLetras.get(verificaIndexCriptografado(caractere)).toUpperCase();
             } else {
-                letras += listaLetras.get(verificaIndexCriptografado(texto.substring(i, i + 1)));
+                letras += listaLetras.get(verificaIndexCriptografado(caractere));
             }
         }
         return letras;

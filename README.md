@@ -1,6 +1,6 @@
 # RESOLUÇÃO DE DESAFIOS
 
-Olá, Bem vindo as resoluções de alguns desafios de sites como o HackerRank e LeetCode.
+Olá, apresento as resoluções de alguns desafios do site HackerRank.
 
 ## 1. Mini-Max Sum
 Recebe uma matriz de cinco inteiros e retorna a maior e menor soma entre quatro números.

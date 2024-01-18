@@ -36,3 +36,8 @@ Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/chall
 Recebe uma string com conjuntos {}, [], (). Retorna YES para conjuntos balanceados e NO para não balanceados.
 
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-five) o site oficial.
+
+## 8. Staircase
+Recebe um inteiro. Constroi uma escada de "#" com base e altura n.
+
+Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true) o site oficial.

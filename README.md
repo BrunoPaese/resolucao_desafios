@@ -41,3 +41,8 @@ Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/chall
 Recebe um inteiro. Constroi uma escada de "#" com base e altura n.
 
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true) o site oficial.
+
+## 10. Bill Division
+Recebe  um array sendo valores de itens, um inteiro k sendo o índice para remocão de determinado item (base zero) e um decimal b sendo o valor que Anna pagou. Retorna no log "Bon Appetit" se o valor foi cobrado devidamente, caso contrário retorna a diferença de valor.
+
+Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) o site oficial.

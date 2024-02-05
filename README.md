@@ -18,7 +18,7 @@ Recebe uma String com horário e retorna convertido em relógio padrão 24h.
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one) o site oficial. 
 
 ## 4. Divisible Sum Pairs
-Recebe comprimento da matriz, um divisor(k) inteiro e uma array não formatados. Verifica pares onde a soma dos elementos da array são divisíveis por k e retorna a quantidade total de pares válidos.
+Recebe comprimento da matriz, um divisor (k) inteiro e uma array não formatados. Verifica pares onde a soma dos elementos da array são divisíveis por (k) e retorna a quantidade total de pares válidos.
 
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/three-month-preparation-kit-divisible-sum-pairs/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one) o site oficial. 
 
@@ -38,11 +38,16 @@ Recebe uma string com conjuntos {}, [], (). Retorna YES para conjuntos balancead
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/one-week-preparation-kit-balanced-brackets/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-five) o site oficial.
 
 ## 8. Staircase
-Recebe um inteiro. Constroi uma escada de "#" com base e altura n.
+Recebe um inteiro (n). Constroi uma escada de "#" com base e altura (n).
 
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true) o site oficial.
 
 ## 10. Bill Division
-Recebe  um array sendo valores de itens, um inteiro k sendo o índice para remocão de determinado item (base zero) e um decimal b sendo o valor que Anna pagou. Retorna no log "Bon Appetit" se o valor foi cobrado devidamente, caso contrário retorna a diferença de valor.
+Recebe um array sendo valores de itens, um inteiro (k) sendo o índice para remocão de determinado item (base zero) e um decimal (b) sendo o valor que Anna pagou. Retorna no log "Bon Appetit" se o valor foi cobrado devidamente, caso contrário retorna a diferença de valor.
 
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) o site oficial.
+
+## 11. Sparse Arrays
+Recebe duas array. Uma array com strings quaisquer (strings) e outra array com string para comparação (query). Retorna o número de vezes que a (query) está contida na array (strings)  
+
+Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/three-month-preparation-kit-sparse-arrays/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one#) o site oficial.

@@ -51,3 +51,8 @@ Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/chall
 Recebe duas array. Uma array com strings quaisquer (strings) e outra array com string para comparação (query). Retorna o número de vezes que a (query) está contida na array (strings).
 
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/three-month-preparation-kit-sparse-arrays/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one#) o site oficial.
+
+## 12. Grading Students
+Recebe uma array de notas. Calculadora para arrendondamento de notas. Se a diferença do primeiro inteiro multiplo de cinco maior que a nota for menor que três arredonda para o multiplo, se for igual a 3 mantêm a nota. Verifica também notas abaixo de 38 para que não façam esse tratamento.
+
+Exercício difícil para explicação, com as imagem e tabelas no site fica mais fácil de entender. [acesse](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true), site oficial.

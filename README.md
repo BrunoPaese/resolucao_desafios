@@ -55,4 +55,4 @@ Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/chall
 ## 12. Grading Students
 Recebe uma array de notas e calcula arrendondamento. Se a diferença do primeiro inteiro multiplo de cinco maior que a nota for menor que três arredonda para o multiplo, se for igual a 3 mantêm a nota. Verifica também notas abaixo de 38 para que não façam esse tratamento.
 
-Exercício difícil para explicação, com as imagem e tabelas no site fica mais fácil de entender. [Acesse](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true), site oficial.
+Exercício difícil para explicação, com as imagem e tabelas no site fica mais fácil de entender. [Acesse site oficial](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true).

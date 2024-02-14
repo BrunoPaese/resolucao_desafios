@@ -62,3 +62,8 @@ Recebe uma string(U -> uphil e D -> downhill) e um inteiro (tamanho da string). 
 
 Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true) o site oficial.
 
+## 13. Sales by Match
+Recebe uma lista com pares de meias representados por inteiros. Código verifica e retorna quantos pares de meias são iguais, ignorando as avulsas. 
+
+Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true) o site oficial.
+

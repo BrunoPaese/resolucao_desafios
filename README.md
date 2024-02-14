@@ -56,3 +56,9 @@ Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/chall
 Recebe uma array de notas e calcula arrendondamento. Se a diferença do primeiro inteiro multiplo de cinco maior que a nota for menor que três arredonda para o multiplo, se for igual a 3 mantêm a nota. Verifica também notas abaixo de 38 para que não façam esse tratamento.
 
 Exercício difícil para explicação, com as imagem e tabelas no site fica mais fácil de entender. [Acesse o site oficial](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)
+
+## 13. Counting Valleys
+Recebe uma string(U -> uphil e D -> downhill) e um inteiro (tamanho da string). Sabendo que se inicia no nível zero, o desafio propõe calcular por quantos vales a pessoa passou.  
+
+Para explicação detalhada do desafio [acesse](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true) o site oficial.
+
